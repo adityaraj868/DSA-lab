@@ -1,0 +1,11 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled binaries
+*.out
+
+.vscode/

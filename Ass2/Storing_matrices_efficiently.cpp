@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Q5
 class matrix{
     //for square matrix only
     public: 

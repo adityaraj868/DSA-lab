@@ -29,3 +29,8 @@ int evaluate_postfix(string postfix) {
 
     return st.top();
 }
+
+int main(){
+
+    return 0;
+}

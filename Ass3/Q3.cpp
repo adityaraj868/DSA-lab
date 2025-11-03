@@ -24,3 +24,8 @@ bool is_balanced(string expr) {
     }
     return st.empty();
 }
+
+int main(){
+
+    return 0;
+}
